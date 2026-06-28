@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on trading bots and full-stack projects<br>🤝I’m looking to collaborate with creative and driven coders<br>🌱 I’m currently learning CI/CD and improving my engineering workflow<br>💬 Ask me about algorithmic automated trading strategies
+🔭 I’m currently studying computer science at LSU, I code full-stack projects<br>🤝I’m looking to collaborate with creative and driven coders<br>🌱 I’m currently learning CI/CD and improving my engineering workflow<br>💬 Ask me about algorithmic automated trading strategies
 <br>
 
 ## 🌐 Socials:
