@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on trading bots and full-stack projects<br>🤝I’m looking to collaborate with creative and driven coders<br>🌱 I’m currently learning CI/CD and improving my engineering workflow<br>💬 Ask me about algorithmic automated trading strategies<br>⚡ Fun fact: I am a retired D1/NAIA/NJCAA Athlete
-
+🔭 I’m currently working on trading bots and full-stack projects<br>🤝I’m looking to collaborate with creative and driven coders<br>🌱 I’m currently learning CI/CD and improving my engineering workflow<br>💬 Ask me about algorithmic automated trading strategies
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bryanttaylor/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bkt6402@gmail.com) 
